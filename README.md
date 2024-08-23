@@ -1,5 +1,14 @@
-## Hi there 👋
 
+##👋 Hi! I'm Martìn Ortiz
+ a student passionate about programming and software development.
+
+🔭 Currently studying Software Development at "Instituto Superior de Villa del Rosario", working on class projects and personal exercises to build my skills.
+
+🌱 Interested in learning more about C#,C++, Game Development, and looking for opportunities to collaborate and grow.
+
+💬 Feel free to reach out to discuss projects or tech topics. I'm always open to learning and new opportunities!
+
+📫 You can contact me at martinortiz2077@gmail.com
 <!--
 **MartinAlexanderOrtiz/MartinAlexanderOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
