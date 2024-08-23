@@ -1,5 +1,5 @@
 
-## 👋 Hi! I'm Martìn Ortiz
+## 👋 Hi! I'm Martín Ortiz
  a student passionate about programming and software development.
 
 🔭 Currently studying Software Development at "Instituto Superior de Villa del Rosario", working on class projects and personal exercises to build my skills.
